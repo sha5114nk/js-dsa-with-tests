@@ -1,4 +1,4 @@
-import replaceBug from "../src/replaceBug";
+import replaceBug from "../src/replaceBug.js";
 
 describe("replaceBug", () => {
   test("single occurrence", () => {
